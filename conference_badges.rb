@@ -20,4 +20,4 @@ def assign_rooms(speakers)
   room_messages
 end
 def printer(attendees)
-  
+  batch
